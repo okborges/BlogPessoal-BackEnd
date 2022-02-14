@@ -31,7 +31,7 @@ public class SwaggerConfiguration {
 								.email("rafaelborges.av@gmail.com")))
 				.externalDocs(new ExternalDocumentation()
 						.description("Github Project")
-						.url("https://github.com/okborges/personal_blog"));
+						.url("https://github.com/okborges/BlogPessoal-BackEnd"));
 	}
 	
 	private ApiResponse createApiResponse (String message) {
