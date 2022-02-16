@@ -90,6 +90,8 @@ $ pelo Postman
 ```
 ## 🛠 Tecnologias
 
+-Java
+
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - [Spring Boot](https://start.spring.io/)
